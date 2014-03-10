@@ -17,6 +17,7 @@
     
     NSString* working_directory;
     
+    NSMutableDictionary* sprites;
     NSMutableDictionary* attributes;
     NSString* prototype;
     NSString* name;

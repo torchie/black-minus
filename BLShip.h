@@ -14,4 +14,5 @@
     
 }
 
+@property NSMutableArray* rooms;
 @end

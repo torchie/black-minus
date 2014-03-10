@@ -9,5 +9,5 @@
 #import "BLShip.h"
 
 @implementation BLShip
-
+@synthesize rooms;
 @end
